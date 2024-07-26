@@ -4,7 +4,7 @@ import { http, HttpResponse } from 'msw'
 import { BASE_URL } from '../../api'
 import { restaurants } from '../../stub/restaurants'
 
-import { HomePage } from './HomePage' //
+import { HomePage } from './HomePage'
 
 const meta = {
   title: 'Pages/HomePage',
