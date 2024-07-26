@@ -34,7 +34,7 @@ type ErrorBlockProps = {
 
 export const ErrorBlock = ({ title, image, body, buttonText, onButtonClick }: ErrorBlockProps) => (
   <ErrorContainer>
-    <Heading level={1}>{title}</Heading>
+    <Heading level={2}>{title}</Heading>
     <ImageContainer>{image}</ImageContainer>
     <Body>{body}</Body>
     <Button onClick={onButtonClick}>{buttonText}</Button>
