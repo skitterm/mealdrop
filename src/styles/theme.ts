@@ -95,7 +95,7 @@ const typography = {
     bodyS: '1rem',
     bodyXS: '0.9rem',
     bodyXXS: '0.72rem',
-    heading1: '3.74rem',
+    heading1: '3.2rem',
     heading2: '2.19rem',
     heading3: '1.75rem',
     heading4: '1.4rem',
